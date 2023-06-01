@@ -94,7 +94,7 @@ nav ul{
 .line{
     background-color: black;
     height: 5px;
-    width: 0;
+    width: 5vw;
     position: absolute;
     background-color: #911d91;
     transition: width 1s ease-in-out;
